@@ -1,0 +1,32 @@
+Ingredientes para mi receta: <i lang="es-ES">empanadas argentinas de carne</i>
+<ul>
+   <li data-cantidad="250g" masa>harina</li>
+   <li data-cantidad="1tsp" masa>manteca de cerdo</li>
+   <li data-cantidad="0.5 cup" masa>leche</li>
+   <li data-cantidad="0.5tsp" masa>azucar</li>
+   <li data-cantidad="1" masa>yema</li>
+   <li data-cantidad="500g" relleno>cebollas picada</li>
+   <li data-cantidad="250g" relleno>carne de ternera picada</li>
+   <li data-cantidad="1tsp" relleno>pimenton</li>
+   <li data-cantidad="0.5tsp" relleno>comino</li>
+   <li data-cantidad="0.25tsp" relleno>pimienta blanca</li>
+   <li data-cantidad="1tbs" relleno>sal</li>
+   <li data-cantidad="3tsp" relleno>caldo</li>
+   <li data-cantidad="2" relleno>huevo cocido</li>
+</ul>
+
+..................................
+
+i{
+  color: black;
+  background-color: white;
+}
+[masa] {
+   color: yellow;
+}
+[relleno] {
+   color: red;
+}
+ul{
+   background-color: darkgrey;
+   border: 1px solid green;
