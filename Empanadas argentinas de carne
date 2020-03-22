@@ -21,6 +21,7 @@ Ingredientes para mi receta: <i lang="es-ES">Empanadas argentinas de carne</i>
 i{
   color: black;
   background-color: white;
+  border: 1px 1px 0px 1px solid green;
 }
 [masa] {
    color: yellow;
