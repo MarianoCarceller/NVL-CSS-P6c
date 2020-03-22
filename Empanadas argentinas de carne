@@ -1,4 +1,4 @@
-Ingredientes para mi receta: <i lang="es-ES">empanadas argentinas de carne</i>
+Ingredientes para mi receta: <i lang="es-ES">Empanadas argentinas de carne</i>
 <ul>
    <li data-cantidad="250g" masa>harina</li>
    <li data-cantidad="1tsp" masa>manteca de cerdo</li>
@@ -13,6 +13,7 @@ Ingredientes para mi receta: <i lang="es-ES">empanadas argentinas de carne</i>
    <li data-cantidad="1tbs" relleno>sal</li>
    <li data-cantidad="3tsp" relleno>caldo</li>
    <li data-cantidad="2" relleno>huevo cocido</li>
+   <img src="empanadas argentinas de carne.jpg" width="300" height="200">
 </ul>
 
 ..................................
